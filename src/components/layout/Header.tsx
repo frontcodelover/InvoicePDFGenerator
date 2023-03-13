@@ -52,7 +52,7 @@ const Header = () => {
           <div className={`${visible} absolute top-10 md:static w-full -ml-3 md:block md:w-auto`} id='navbar-default'>
             <ul className='flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-white '>
               <li>
-                <Link to='/' className='block py-2 pl-3 pr-4 bg-blue-400 text-slate-900 hover:text-white  rounded md:bg-transparent md:text-blue-700 md:p-0 ' aria-current='page'>
+                <Link to='/' className='block py-2 pl-3 pr-4 bg-blue-400 text-slate-900 hover:text-black  rounded md:bg-transparent md:text-blue-700 md:p-0 ' aria-current='page'>
                   Home
                 </Link>
               </li>

@@ -26,12 +26,15 @@ const Mention = () => {
       <Title>Mentions légales</Title>
       <Paragraph>
         Conformément aux dispositions des Articles 6-III et 19 de la Loi n°2004-575 du 21 juin 2004 pour la Confiance dans l’économie numérique, dite L.C.E.N., il est porté à la connaissance des
-        utilisateurs et visiteurs, ci-après "l'Utilisateur", du site http//www , ci-après le "Site", les présentes mentions légales. La connexion et la navigation sur le Site par l’Utilisateur
-        implique acceptation intégrale et sans réserve des présentes mentions légales. Ces dernières sont accessibles sur le Site à la rubrique « Mentions légales ».
+        utilisateurs et visiteurs, ci-après "l'Utilisateur", du site https://invoice-pdfg-enerator.vercel.app/ , ci-après le "Site", les présentes mentions légales. La connexion et la navigation sur
+        le Site par l’Utilisateur implique acceptation intégrale et sans réserve des présentes mentions légales. Ces dernières sont accessibles sur le Site à la rubrique « Mentions légales ».
       </Paragraph>
 
       <TitleH2>ARTICLE 1 - L'EDITEUR</TitleH2>
-      <Paragraph>L’édition et la direction de la publication du Site est assurée par XXXXXXXXXX, domiciliée XXXXXX, dont l'adresse e-mail job@nicolasderaemy.fr. ci-après l'"Editeur".</Paragraph>
+      <Paragraph>
+        L’édition et la direction de la publication du Site est assurée par Nicolas DE RAEMY, domiciliée 2 imp. des Changes à Chartres, dont l'adresse e-mail job@nicolasderaemy.fr. ci-après
+        l'"Editeur".
+      </Paragraph>
       <TitleH2>ARTICLE 2 - L'HEBERGEUR</TitleH2>
       <Paragraph>L'hébergeur du Site est la société Vercel Inc., dont le siège social est situé au 340 S Lemon Ave # 4133 Walnut, CA 91789.</Paragraph>
       <TitleH2>ARTICLE 3 - ACCES AU SITE</TitleH2>
@@ -40,7 +43,7 @@ const Mention = () => {
         interruption ou suspension du Site, l'Editeur ne saurait être tenu responsable.
       </Paragraph>
       <TitleH2>ARTICLE 4 - COLLECTE DES DONNEES</TitleH2>
-      <Paragraph>Le Site ne collecte aucune données privées, aucune base de données n'est liée à celui-ci. Pour toute demainde merci d'envoyer un mail à l'adresse XXXX</Paragraph>
+      <Paragraph>Le Site ne collecte aucune données privées, aucune base de données n'est liée à celui-ci. Pour toute demainde merci d'envoyer un mail à l'adresse job@nicolasderaemy.fr</Paragraph>
       <Paragraph>
         Toute utilisation, reproduction, diffusion, commercialisation, modification de toute ou partie du Site, sans autorisation de l’Editeur est prohibée et pourra entraînée des actions et
         poursuites judiciaires telles que notamment prévues par le Code de la propriété intellectuelle et le Code civil.
